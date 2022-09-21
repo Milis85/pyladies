@@ -1,0 +1,1 @@
+vek = int(input('Kolik je ti let'))
