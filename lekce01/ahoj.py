@@ -3,4 +3,6 @@ print(1, 2, 3)
 print(1 + 1)
 print(10 - 2.2)
 print('*' * 80)
-print('ty vole ono to funguje')
+print('ty jo, ono to funguje')
+print(10 / 0)
+
