@@ -1,10 +1,10 @@
 from turtle import fillcolor, begin_fill, forward, left, end_fill, exitonclick
 
 size = 100
-color = "#FFE66D"
+color = "red"
 
 #nastavi barvu
-fillcolor(purple)
+fillcolor(color)
 begin_fill()
 
 #nakresli ctverec
