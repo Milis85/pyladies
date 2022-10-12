@@ -1,7 +1,7 @@
 from turtle import fillcolor, begin_fill, forward, left, end_fill, exitonclick
 
 size = 100
-color = "#FFE66D"
+color = "green"
 
 #nastavi barvu
 fillcolor(color)
