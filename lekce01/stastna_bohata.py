@@ -1,5 +1,6 @@
 #prepis program "stastna bohata" se zanorenymi ify
 #ktera verze ti prijde citelnejsi?
+#tahle
 
 stastna = input('Jsi stastna? ')
 bohata = input('Jsi bohata? ')
